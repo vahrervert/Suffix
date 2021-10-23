@@ -1,5 +1,5 @@
 # Suffix
-<img"suffixlogo2.jpg">
+![cornos-logo](suffixlogo2.jpg)
 
 Suffix is a 'bot' made for fun
 
