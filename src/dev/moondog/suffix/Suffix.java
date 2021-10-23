@@ -1,6 +1,7 @@
 package dev.moondog.suffix;
 /*
  * @author moondog
+ * all rights reserverd lol
  */
 import dev.moondog.suffix.beta.GUI;
 import dev.moondog.suffix.beta.MousePosition;
